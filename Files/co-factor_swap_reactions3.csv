@@ -1,0 +1,2 @@
+ID,geneName,name,subsystem,lower_bound,upper_bound,metabolite_list,,,,,,,,,
+R2115,alcohol_dehydrogenase,alcohol_dehydrogenase,C,0,1000,s_0359,-1,s_0794,-1,s_0423,-1,s_0680,1,s_0434,1

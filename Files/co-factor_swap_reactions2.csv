@@ -1,0 +1,2 @@
+ID,geneName,name,subsystem,lower_bound,upper_bound,metabolite_list,,,,,,,,,
+R0491,glycerol-3-phosphate_dehydrogenase,glycerol-3-phosphate_dehydrogenase,B,0,1000,s_0629,-1,s_0794,-1,s_0423,-1,s_0767,1,s_0434,1
