@@ -4,7 +4,7 @@
 # 27410 - Group assignment - Group 11 - Biosynthesis of isoamyl acetate by Saccharomyces cerevisiae
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+This project investigates the biosynthesis of isoamyl acetate using the yeast Saccharomyces cerevisiae, to optimize its enhanced production. Isoamyl Acetate, known as a banana flavor ester, is used in the food, beverage, pharmaceutical, and cosmetic industries. Our report begins with a literature review, outlining the chemical pathways of isoamyl acetate synthesis and its market potential. Product-relates issue is a low production rate that can be solved through metabolic engineering strategies. Therefore, we applied MEMOTE comparison for 7 potential S. cerevisiae models to identify the most suitable model for the project. We conducted yields and media optimization analysis, phenotypic phase plane analysis, FSEOF, and co-factor-swapping optimization analysis to highlight the main bottlenecks of the process and find feasible solutions for the product. The DFBA showed that cells respond to different applied environmental conditions and identified genetic modifications with higher isoamyl acetate production.
 
 ## Project overview
 This projects is organized in a following way. _[Report.ipynb](Report.ipynb)_cointains core text description of the project covering introduction, problem definition, selection and assesment of excisting GSM, computer-aided cell factory engineering, discussion and conclusion parts with short statements, tables and figures. 
@@ -17,7 +17,3 @@ Main code with results is splited between 6 files related to different analyses.
 6. _[07 Dynamic FBA](07_Dynamic_FBA.ipynb)_ - Dynamic flux analysis to identify cell response to different environmental conditions or genetic modifications.
 
 In the folder _[Files](Files)_ reaction with manually changed co-factors can be found. Folder _[Models](Models)_ contains yeast models we used for memote analysis. We put figures that are used in the _[Report.ipynb](Report.ipynb)_ to the folder _[Pictures](Pictures)_.
-
-
-_[whatever name you give](03_Theoretical_yields_and_media_optimization.ipynb)_
-_[]()_
